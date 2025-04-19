@@ -1,5 +1,5 @@
 # Flex-Clear-All-Spots
-This is a macOS application, written in Swift, to clear all panadapter spots on the Flex Radio 8000 series.
+This is a macOS application, written in Swift, to clear all panadapter spots on the Flex Radio 8000 series.  It MAY work on the Flex 6000 series, but I don't own one, so no guarantees.
 
 I am an amateur radio operator (ham) and geek.  Traditionally, ham apps have been dominated by Windows, and I've given that environment a college try, but when you've driven a new Lexus, it's hard to go back to a used Chevy.
 
