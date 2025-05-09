@@ -10,3 +10,9 @@ Issue #1 appears to be at the mercy of Marcus, as I have not yet discovered a wa
 Thus, I present to you (eventually), a simple macOS app that will remove all spots that reside in your Flex radio.
 
 TU es 73 de K3CDY
+
+
+5/9/25 UPDATE:
+As of MacSSDR release version 2.9.70, Marcus added a "Command Bar" feature, which permits sending a "CAT Command" directly to the Flex.  To clear all spots on the Flex, simply add a command named, for example "Clear All Spots", select "Send CAT Command" in the "Type" column, and in the "Parameter" column, enter "spot clear" (without the quotes).  Click the Test button next to the command, and all spots should disappear.
+
+Given Marcus has added this interesting new capability, my "Flex-Clear-All-Spots" is officially dead.
